@@ -1,0 +1,51 @@
+.work-section{
+    height: 50%;
+     width: 80%;
+     background-color: white;
+     box-shadow: 6px 6px 15px grey;
+     margin-top: -7rem;
+     border-radius: 2rem;
+     padding-bottom: 5rem;
+}
+
+.main-heading {
+    font-size: 2.6rem;
+    font-weight: bolder;
+    
+}
+.inner-section{
+ margin: 0 5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.fa-solid, .fas {
+    font-weight: 900;
+    font-size: 2.5rem;
+    text-align: center;
+    display: block;
+    padding: 2rem 0;
+    border-radius: 20rem;
+    background-color: #dad0f6;
+    width: 20%;
+    height: 50%;
+
+    margin: 2rem auto;
+}
+
+
+.sub-heading{
+    font-size: 2rem;
+    font-weight: bold;
+    text-align: center;
+    padding: 1rem 0;
+}
+
+.para{
+    text-align: center;
+    font-size: 1.5rem;
+}
+
+
+

@@ -1,0 +1,36 @@
+
+.error{
+        height: 100vh;
+    align-items: center;
+    position: relative;
+}
+
+.founds{
+    font-size: 25rem;
+    position: absolute;
+   z-index: -1;
+   color: rgba(0, 0, 0, 0.245);
+   font-weight: bold;
+}
+
+h1{
+    font-size: 3rem;
+    text-align: center;
+    font-weight: bold;
+}
+
+p{
+    font-size:1.3rem;
+}
+
+.btn-group{
+    display: block;
+    margin: auto;
+    border: none;
+    padding: 1rem 2rem;
+    font-size: 1.4rem;
+    border-radius: 5rem;
+    background-color: #6f5de7;
+    color: white;
+  
+}

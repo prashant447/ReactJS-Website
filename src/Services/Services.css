@@ -1,0 +1,35 @@
+.main-heading{
+    font-size: 2.9rem;
+    font-weight: bolder;
+}
+
+.register{
+ box-shadow: 3px 3px 10px grey;
+    padding: 3rem;
+    
+    width: 30%;
+    margin: 2.5rem auto;
+    transition: all 0.5s;
+}
+
+.register:hover{
+    background-color: #1d00933e;
+    cursor: pointer;
+}
+
+@media (max-width:974px) {
+
+
+
+.register {
+    box-shadow: 3px 3px 10px grey;
+    padding: 3rem;
+    width: 90%;
+    margin: 2.5rem auto;
+    transition: all 0.5s;
+}
+
+}
+
+
+

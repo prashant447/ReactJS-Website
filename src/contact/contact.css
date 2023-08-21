@@ -1,0 +1,104 @@
+.img-size{
+    width: 80%;
+    height: 70%;
+    border-radius: 5px;
+}
+
+.con-section{
+    width: 80%;
+    margin: 10rem auto;
+}
+
+
+
+.name{
+    padding: 1rem ;
+    font-size: 1.5rem;
+    margin: 1rem;
+    width: 19vw;
+}
+
+.phone-section{
+    padding: 1rem ;
+    font-size: 1.5rem;
+    margin: 1rem;
+    width: 40vw;
+}
+
+
+/* .email-section{
+    padding: 1rem;
+    font-size: 1rem;
+    margin: 1rem;
+    width: 20vw;
+} */
+
+.add-section{
+    padding: 1rem;
+    font-size: 1.5rem;
+    margin: 1rem;
+    
+        width: 40vw;
+}
+
+.msg{
+    padding: 1rem ;
+    font-size: 1.5rem;
+    margin: 1rem;
+        width: 40vw;
+}
+
+.form-check{
+    padding: 1rem;
+    font-size: 1.5rem;
+    margin: 1rem;
+}
+
+.input-group-texts{
+   padding: 1rem 1.8rem;
+   width: 100%;
+   font-size: 1.5rem;
+    border-radius: 5rem;
+    background-color: #6f5de7;
+    color: white;
+    border: transparent;
+    
+}
+
+.input-group-texts:hover{
+    transition: all 0.5s;
+    background-color: #3d2f97fe;
+  
+   
+}
+
+input{
+    outline: none;
+}
+
+.form-check .form-check-input {
+    float: left;
+  margin-left: -1rem;
+  margin-right: 1.2rem;
+}
+
+
+.form-check-input {
+    --bs-form-check-bg: #b389ef;
+    width: 1em;
+    height: 1em;
+    margin-top: 0.25em;
+    vertical-align: top;
+    background-color: #b389ef00;
+    background-image: var(--bs-form-check-bg-image);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    border: var(--bs-border-width) solid #05112f;
+}
+
+
+
+
+
+
